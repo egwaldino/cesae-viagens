@@ -1,4 +1,4 @@
-# CESAE Viagens
+﻿# CESAE Viagens
 
 Projeto individual de desenvolvimento web. O objetivo do exercício é reproduzir o layout de referência da página CESAE Viagens, com atenção à apresentação em diferentes tamanhos de ecrã nomeadamente, mobile e desktop, usando componentes do Bootstrap 5.3.
 
@@ -36,10 +36,10 @@ CesaeViagens/
 |-- index.html
 |-- README.md
 `-- assets/
-    |-- brasilia.png
-    |-- lisboa.jpg
-    |-- luanda.png
-    `-- sal.jpg
+    |-- brasilia.webp
+    |-- lisboa.webp
+    |-- luanda.webp
+    `-- sal.webp
 ```
 
 ## Como visualizar
